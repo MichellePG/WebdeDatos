@@ -1,4 +1,4 @@
-@base <http://users.dcc.uchile.cl/~ahogan/foaf.ttl> .
+@base <http://raw.githubusercontent.com/MichellePG/WebdeDatos/main/foaf.ttl> .
 
 @prefix mp: <http://users.dcc.uchile.cl/~ahogan/foaf.ttl#> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
