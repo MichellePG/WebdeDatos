@@ -24,7 +24,7 @@
    foaf:familyName "Perez" ;
    foaf:age 23 ;
    foaf:img <http://github.com/MichellePG/WebdeDatos/blob/main/imgtest.jpg> ;
-   foaf:knows <https://raw.githubusercontent.com/demiandimi/watoslab10/main/foaf.ttl> , <http://users.dcc.uchile.cl/~gtartari/gonzalo.ttl#yo> , <http://users.dcc.uchile.cl/~ahogan/foaf.ttl>, <http://users.dcc.uchile.cl/~almorale/foaf.ttl#am>, <http://users.dcc.uchile.cl/~goperez/perfil.ttl#gp>;
+   foaf:knows <https://raw.githubusercontent.com/demiandimi/watoslab10/main/foaf.ttl#dr> , <http://users.dcc.uchile.cl/~gtartari/gonzalo.ttl#yo> , <http://users.dcc.uchile.cl/~ahogan/foaf.ttl>, <http://users.dcc.uchile.cl/~almorale/foaf.ttl#am>, <http://users.dcc.uchile.cl/~goperez/perfil.ttl#gp>;
    foaf:interest dbr:Anime , dbr:K-pop , dbr:J-pop , dbr:Cat , dbr:Sakamichi_Series ; 
    social:likesMovie dbr:Wolf_Children , dbr:Swing_Girls , dbr:The_Wind_Rises , <http://dbpedia.org/page/About_Time_(2013_film)> ;
    social:hasSpiritAnimal dbr:Black_cat ;
